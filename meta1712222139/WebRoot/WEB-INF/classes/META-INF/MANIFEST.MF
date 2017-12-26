@@ -1,2 +1,0 @@
-Manifest-Version: 1712222139
-Author:Gladiateur,Dong Pan
